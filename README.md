@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>六合彩资讯（示例站）</title>
+  <title>六合彩资讯88888888（示例站）</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
