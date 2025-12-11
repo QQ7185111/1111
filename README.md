@@ -47,7 +47,7 @@
   </main>
 
   <footer class="site-footer">
-    <p>&copy; 2025AA 莫华清示例站 — 仅用于信息/娱乐用途</p>
+    <p>&copy; 2025AA 莫华清示例站1 — 仅用于信息/娱乐用途</p>
     <p><a href="privacy-policy.md">隐私政策（示例）</a></p>
   </footer>
 
